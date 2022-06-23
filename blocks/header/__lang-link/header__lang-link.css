@@ -1,13 +1,16 @@
 .header__lang-link {
-  width: 30px;
   text-decoration: none;
   font-size: 24px;
-  line-height: 96%;
+  line-height: 28px;
   font-weight: 400;
   text-align: right;
   color: #FFFFFF;
-  font-family: "Inter";
+  font-family: "Inter", sans-serif;
   transition: filter 1s;
+}
+
+.header__lang-link:active {
+  text-decoration: underline;
 }
 
 .header__lang-link:hover {
@@ -19,6 +22,6 @@
   .header__lang-link {
     font-size: 18px;
     line-height: 92%;
-    width: 22px;
+  
   }
 }

@@ -3,30 +3,23 @@
   position: relative;
   flex-direction: column;
   align-items: center;
-  margin-left: 148px;
-  margin-right: 148px;
-  margin-top: 74px;
+  margin: 74px 148px 74px;
 }
 
 @media screen and (max-width: 1024px) and (min-width: 768px) {
   .lead {
-    margin-top: 48px;
-    margin-left: 48px;
-    margin-right: 48px;
+    margin: 48px 48px 92px;
   }
 }
 
 @media screen and (max-width: 768px) and (min-width: 425px) {
   .lead {
-    margin-left: 0;
-    margin-right: 0;
+    margin: 48px 0px 88px;
   }
 }
 
 @media screen and (max-width: 425px) {
   .lead {
-    margin-top: 48px;
-    margin-left: 0;
-    margin-right: 0;
+    margin: 48px 0px 64px;
   }
 }

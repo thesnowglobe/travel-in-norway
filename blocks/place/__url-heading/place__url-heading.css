@@ -1,10 +1,10 @@
 .place__url-heading {
-  margin: 0;
-  margin-bottom: 12px;
+  margin: 0 0 12px;
   font-size: 12px;
   font-weight: 400;
-  line-height: 83%;
+  line-height: 12px;
+  text-transform: capitalize;
   letter-spacing: 2px;
   color: #AAAAAA;
-  font-family: "Inter";
+  font-family: "Inter", sans-serif;
 }

@@ -1,7 +1,0 @@
-a.header__link-active {
-  text-decoration: underline;
-}
-
-a.active:hover, a.active:focus, a.active:active{
-text-decoration: underline;
-}
