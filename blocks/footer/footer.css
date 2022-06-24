@@ -5,13 +5,11 @@
   align-items: flex-end;
   margin-left: 48px;
   margin-right: 48px;
-  margin-top: 92px;
   margin-bottom: 24px;
 }
 
 @media (max-width: 1023px) {
   .footer {
-    margin-top: 88px;
     margin-left: 24px;
     margin-right: 24px;
   }
