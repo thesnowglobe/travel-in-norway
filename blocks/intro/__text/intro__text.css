@@ -8,13 +8,13 @@
   font-family: "Inter", sans-serif;
 }
 
-@media screen and (max-width: 768px) and (min-width: 425px) {
+@media (max-width: 1023px) {
   .intro__text {
     max-width: 720px;
   }
 }
 
-@media screen and (max-width: 425px) {
+@media (max-width: 767px) {
   .intro__text {
     max-width: 288px;
   }

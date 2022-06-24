@@ -1,6 +1,4 @@
-.root {
-  max-width: 1280px;
-  margin: auto;
+.page__container {
   background-color: #2A2C2F;
   text-rendering: optimizeLegibility;
   -moz-osx-font-smoothing: grayscale;

@@ -10,3 +10,9 @@
   color: #FFFFFF;
   font-family: "Inter", sans-serif;
 }
+
+@media (max-width: 767px) {
+  .lead__caption {
+    margin-left: 16px;
+  }
+}
