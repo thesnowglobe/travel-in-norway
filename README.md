@@ -1,11 +1,7 @@
-# Путешествие по России
+# Traveling in Norway
 
-Путешествие по России - это проект про самые разнообразные уголки России о которых стоит узнать и посетить.
+Travel in Norway - is a project about the most diverse, unique and beautiful places of Norway about which it is worth to learn and visit.
 
-## Функционал
-
- Вёрстка проекта производилась с использованием flexbox и grid layouts.
- Имплементировано несколько ссылок на различные ресурсы по тематике проекта.
-
-##  Ссылка на проект:
-[russian-travel](https://aly0m.github.io/russian-travel/)
+## Functionality
+ The layout of the project was done using flexbox and grid layouts.
+ Were implemented several links to various resources on the subject of the project.
